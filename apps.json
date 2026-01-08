@@ -1,0 +1,15 @@
+{
+    "name": "Anivora Source",
+    "identifier": "com.anivora.source",
+    "apps": [
+    {
+        "name": "Anivora",
+        "bundleIdentifier": "com.anivora.mobile",
+        "developerName": "Anivora Team",
+        "subtitle": "Anime Streaming Client",
+        "localizedDescription": "Watch anime directly on iOS.",
+        "iconURL": "https://N0laa.github.io/anivora-dist/icon.png",
+        "versions": []
+    }
+    ]
+}
