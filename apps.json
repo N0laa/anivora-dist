@@ -1,15 +1,23 @@
 {
-    "name": "Anivora Source",
-    "identifier": "com.anivora.source",
-    "apps": [
+  "name": "Anivora Source",
+  "identifier": "com.anivora.source",
+  "apps": [
     {
-        "name": "Anivora",
-        "bundleIdentifier": "com.anivora.mobile",
-        "developerName": "Anivora Team",
-        "subtitle": "Anime Streaming Client",
-        "localizedDescription": "Watch anime directly on iOS.",
-        "iconURL": "https://N0laa.github.io/anivora-dist/icon.png",
-        "versions": []
+      "name": "Anivora",
+      "bundleIdentifier": "com.anivora.mobile",
+      "developerName": "Anivora Team",
+      "subtitle": "Anime Streaming Client",
+      "localizedDescription": "Watch anime directly on iOS.",
+      "iconURL": "https://N0laa.github.io/anivora-dist/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-01-09",
+          "size": 13885248,
+          "downloadURL": "https://github.com/N0laa/anivora-dist/releases/download/v1.0.0/anivora.ipa",
+          "localizedDescription": "Update 1.0.0"
+        }
+      ]
     }
-    ]
+  ]
 }
