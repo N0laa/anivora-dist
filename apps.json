@@ -11,6 +11,13 @@
       "iconURL": "https://N0laa.github.io/anivora-dist/icon.png",
       "versions": [
         {
+          "version": "1.1.1",
+          "date": "2026-01-17",
+          "size": 13930411,
+          "downloadURL": "https://github.com/N0laa/anivora-dist/releases/download/v1.1.1/anivora.ipa",
+          "localizedDescription": "Update 1.1.1"
+        },
+        {
           "version": "1.1.0",
           "date": "2026-01-16",
           "size": 13930353,
